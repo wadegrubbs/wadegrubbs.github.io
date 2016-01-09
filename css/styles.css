@@ -3,9 +3,9 @@
   height: 512px;
   margin-top: 15px;
   width: 700px;
-  border: 1px solid blue
   padding: 50;
   text-align: right;
+  font-color: black;
 }
 
 .col-md-4 {
@@ -28,4 +28,9 @@
 .forthcomingProjects {
   font-size: 25px;
   text-align: left;
+  font-color: black;
+}
+
+.aboutMe {
+  float: right;
 }
